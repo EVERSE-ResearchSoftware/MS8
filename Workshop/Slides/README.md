@@ -10,7 +10,7 @@
 | 11:40-11:50  | Plenary: Introduction to breakout session 2| Elena |
 | 11:50-12:40  | Breakout room2: Usability, Technical Performance, Documentation/Technical support, Testing, Safety/Security | |
 | 12:40-14:00  |  LUNCH BREAK |  |
-| 14:00-14:45  | Three breakout rooms with different topics, participants can join any group they want. |-  Kirsty: Missing tools <br> - Faruk: User personas <br> - Thomas: TechRadar <br> |
+| 14:00-14:45  | Three breakout rooms with different topics, participants can join any group they want. |-  Kirsty: Missing tools <br> - Faruk: [User personas](https://drive.google.com/file/d/1FDcXdLqcLiIPhpk4MgCpg6L-IaEbgSyn/view?usp=sharing) <br> - Thomas: TechRadar <br> |
 | 14:45-15:00 | Report back from breakouts/general feedback| Elena |
 | 15:00-15:15 | Wrap-up of WS | Thomas |
 
