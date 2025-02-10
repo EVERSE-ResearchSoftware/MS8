@@ -4,7 +4,7 @@
 | 10:00-10:15| Intro/background | Fotis               |
 | 10:15-10.30| Intro EVERSE/WP3 aims | Thomas         |
 | 10:30-10:45| Slido & facilitated discussion | Kirsty|
-| 10:45-11:00| Lihtning talks | - Mike Jackson (EPCC): git repos/bash <br>  - Steve (SSI Southampton): Sustainability Evaluation Tool <br> - Philly (SSI Southampton): mkdocs |
+| 10:45-11:00| Lightning talks | - Mike Jackson (EPCC): git repos/bash <br>  - Steve (SSI Southampton): Sustainability Evaluation Tool <br> - Philly (SSI Southampton): mkdocs |
 | 11:00 - 11:20 | BREAK   | |
 | 11:20 - 11:40  | Breakout room1: What Tools Have You Used? |  |
 | 11:40 - 11:50  | Plenary: Introduction to breakout session 2| Elena |
