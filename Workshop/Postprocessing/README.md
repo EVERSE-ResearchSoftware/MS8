@@ -7,4 +7,5 @@ Deadline for MS8: M14 (30th April 2025)
    - [ ] Digestion of outcomes & feeding back into EVERSE. Reporting back at WP level
    - [ ] Write up report summarising workshop, and highlighting any recommendations around gaps or areas where tools may need to be adapted to fit practices
 
-- [ ] Send update to mailing list with participants    
+- [ ] Send update to mailing list with participants
+- [ ] Feedback wrt WP2 survey (Jutta et al)
